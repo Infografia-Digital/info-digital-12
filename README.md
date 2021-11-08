@@ -14,6 +14,8 @@ Dominic Lehmann, hija del fallecido ingeniero civil hidráulico Pierre Lehmann, 
 ## El problema en cuestión/ Por qué iba a ser una tragedia (GRAFICAR LOS TACOS)
 * En diciembre del año 1575 ocurrió en Valdivia un terremoto de 8,5 grados ritcher. Este fue el primer mega terremoto reportado en Chile, y llevo a las ruinas a los pueblos de Imperial, Valdivia, Villarrica, Osorno y Castro. Mientras la tierra conitnuaba temblando, se generó un tsunami que causó una enorme destrucción a lo largo de toda la costa sur de Chile hasta concepción. Los derrumbes obstruyeron la salida del Lago Riñihue y a causa de esto se generaron rebalses, donde se ahogaron más de 1200 indios y mucho ganado. Esto sirvió como un antecedente para cuando ocurrió el terremoto de 1960 y permitió adelantar lo que se venía y prepararse para ello.
 
+![Tacos](/img/tacos.png)
+
 * Parte del  cerro Tralcán se desplomó provocando un colapso de 3 puntos de bloqueo barroso sobre la olla hidrográfica del Río San Pedro, que une los lagos Riñihue, Panguipulli, Neltume, Calafquén y Maihue. Luego de esto y durante varias semanas de bloqueo comenzó a subir el nivel del caudal del Lago Riñihue
 
 
