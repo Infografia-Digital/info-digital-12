@@ -23,10 +23,9 @@ Dominic Lehmann, hija del fallecido ingeniero civil hidráulico Pierre Lehmann, 
 * Según cuenta su hija, hizo cálculos, llamó a expertos de Estados Unidos y transmitió al Mandatario la información sobre el desastre que podría ocasionar el desborde del lago Riñihue: junto al lago había un pueblo de 300 personas, pero sumando los alrededores y la ciudad, los habitantes superaban los 100 mil.
 
 ## La gente (TESTIMONIOS Y DESCRIBIR EL CONTEXTO)
-* “El sismo igualó las clases sociales”. En Valdivia post terremoto se cayeron las casas, no había luz, agua, ni alcantarillado. Lo anterior afectó tanto a los residentes como a los turistas que se hospedaban en el hotel Pedro de Valdivia ni los oficiales del regimiento “Caupolicán”.
-* En las noches despejadas se veían fogatas a lo largo de los cerros. “El espectáculo de cientos de fogatas, en las colinas, lejos del río, habría sido hermoso si no se supiera que cada fogata era como un SOS desesperado.” Podemos usar esto, agregando casas destruidas para mostrar la desesperación y precariedad que había en el momento. 
-
-* Los esfuerzos de reconstrucción se vieron antagonizados por la falta de comunicación de la zona con el resto del país. “Este plano sorprende a las fuerzas políticas y parlamentarias sobre la forma en que debe financiarse la reconstrucción”, lo que hace alusión a la falta de apoyo del gobierno para levantarse. En consecuencia, es la misma gente de la zona la que inicia los esfuerzos de reconstrucción. 
+> “El sismo igualó las clases sociales”. En Valdivia post terremoto se cayeron las casas, no había luz, agua, ni alcantarillado. Lo anterior afectó tanto a los residentes como a los turistas que se hospedaban en el hotel Pedro de Valdivia ni los oficiales del regimiento “Caupolicán”.
+> En las noches despejadas se veían fogatas a lo largo de los cerros. “El espectáculo de cientos de fogatas, en las colinas, lejos del río, habría sido hermoso si no se supiera que cada fogata era como un SOS desesperado.” Podemos usar esto, agregando casas destruidas para mostrar la desesperación y precariedad que había en el momento. 
+> Los esfuerzos de reconstrucción se vieron antagonizados por la falta de comunicación de la zona con el resto del país. “Este plano sorprende a las fuerzas políticas y parlamentarias sobre la forma en que debe financiarse la reconstrucción”, lo que hace alusión a la falta de apoyo del gobierno para levantarse. En consecuencia, es la misma gente de la zona la que inicia los esfuerzos de reconstrucción. 
 
 ## El desenlace de la batalla 30 de Junio
 Con la agonía de los “Tacos” suena para Valdivia la hora del triunfo. Los tres “tacos” que bloqueaban la salida del agua fueron derrumbados y Valdivia pudo descansar. 
