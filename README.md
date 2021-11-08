@@ -1,4 +1,4 @@
-# Título (optativo): Riñihuazo
+# Título (optativo): Riñihuazo,  la lucha contra el lago
 Introducción / Bajada
 * El Riñihuazo es el nombre dado al bloqueo del río San Pedro que provocó un aumento de volumen en el lago Riñihue tras el terremoto de Valdivia de 1960.
 La epopeya del Riñihue consiste en impedir esta erupción violenta del “volcán” Riñihue, para lo cual se realizaron dos obras simultáneas: se le abrieron canales en su desagüe del San Pedro, y se taparían las bocas por donde se alimenta el lago.
