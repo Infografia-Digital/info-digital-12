@@ -4,12 +4,12 @@ Introducción / Bajada
 La epopeya del Riñihue consiste en impedir esta erupción violenta del “volcán” Riñihue, para lo cual se realizaron dos obras simultáneas: se le abrieron canales en su desagüe del San Pedro, y se taparían las bocas por donde se alimenta el lago.
 
 ## Cómo se dieron los hechos (TIMELINE)
-* Mayo de 1960, 15:12 hrs en Valdivia, como los mismos viejos cuentan se sintió un “chancacaso” que remeció todo el suelo bajo sus pies, olas inexplicables formadas por la tierra botaban todo a su paso, pero la furia de la madre tierra no terminaría ahí.
+1. Mayo de 1960, 15:12 hrs en Valdivia, como los mismos viejos cuentan se sintió un “chancacaso” que remeció todo el suelo bajo sus pies, olas inexplicables formadas por la tierra botaban todo a su paso, pero la furia de la madre tierra no terminaría ahí.
 Dominic Lehmann, hija del fallecido ingeniero civil hidráulico Pierre Lehmann, cuenta que días después de la catástrofe su padre iba por el centro de Santiago cuando se topó con un destacado abogado del que era amigo. "Se encontró, caminando por la calle, con Julio Philippi. Y don Julio le dijo: 'Pierre, he sabido de un agricultor de la zona que está subiendo el nivel de los lagos y eso corresponde a lo que cuentan las crónicas de (Pedro) Mariño de Lovera",
-* Mientras los hombres trabajaban, la lluvia y el viento hacía difíciles las labores, tanto así que el 18 de junio de 1960 las condiciones climáticas detuvieron el trabajo de las faenas
-* La operación de desagüe del lago Riñihue no se realizaría hasta el 26 de junio de ese mismo año, cuando comenzarían a sacar agua por el tranque número 3, (el más grande formado por el cerro caído).
-* De esta forma tardarían 2 o 3 días en terminar esa faena y comenzarían con poco escurrimiento de agua para ir deshinchando los lagos
-* Finalmente, entre el 24 y 26 de julio, se produjo la salida controlada.
+2. Mientras los hombres trabajaban, la lluvia y el viento hacía difíciles las labores, tanto así que el 18 de junio de 1960 las condiciones climáticas detuvieron el trabajo de las faenas
+3. La operación de desagüe del lago Riñihue no se realizaría hasta el 26 de junio de ese mismo año, cuando comenzarían a sacar agua por el tranque número 3, (el más grande formado por el cerro caído).
+4. De esta forma tardarían 2 o 3 días en terminar esa faena y comenzarían con poco escurrimiento de agua para ir deshinchando los lagos
+5. Finalmente, entre el 24 y 26 de julio, se produjo la salida controlada.
 
 ## El problema en cuestión/ Por qué iba a ser una tragedia (GRAFICAR LOS TACOS)
 * En diciembre del año 1575 ocurrió en Valdivia un terremoto de 8,5 grados ritcher. Este fue el primer mega terremoto reportado en Chile, y llevo a las ruinas a los pueblos de Imperial, Valdivia, Villarrica, Osorno y Castro. Mientras la tierra conitnuaba temblando, se generó un tsunami que causó una enorme destrucción a lo largo de toda la costa sur de Chile hasta concepción. Los derrumbes obstruyeron la salida del Lago Riñihue y a causa de esto se generaron rebalses, donde se ahogaron más de 1200 indios y mucho ganado. Esto sirvió como un antecedente para cuando ocurrió el terremoto de 1960 y permitió adelantar lo que se venía y prepararse para ello.
