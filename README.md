@@ -28,3 +28,11 @@ Dominic Lehmann, hija del fallecido ingeniero civil hidráulico Pierre Lehmann, 
 
 ## El desenlace de la batalla 30 de Junio
 Con la agonía de los “Tacos” suena para Valdivia la hora del triunfo. Los tres “tacos” que bloqueaban la salida del agua fueron derrumbados y Valdivia pudo descansar. 
+
+### Bibliografía
+* Barrientos, S. E., & Ward, S. N. (1990). The 1960 Chile earthquake: Inversion for slip distribution from surface deformation. Geophysical Journal International, 103(3), 589-598. 
+* Castedo, L. (1961). La respuesta [35 mm]. Universidad de Chile. 
+* Centro Sismológico Nacional. (2015, diciembre 16). Efemérides sísmicas: Terremoto de Valdivia de 1575 [Institucional]. Centro Sismológico Nacional, Universidad de Chile. 
+* Ercilla. (1960, junio 22). El Riñihue llamará dos veces. Ercilla, 1309. 
+* Hernández Ojeda, J. (2011). 1960: Memorias de un desastre (1. ed). Arte Sonoro Austral Ediciones. 
+* Hernández Parker, L. (1960, junio 15). La epopeya del Riñihue. Ercilla, 1308. 
