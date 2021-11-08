@@ -1,10 +1,10 @@
 # Título (optativo): Riñihuazo
 Introducción / Bajada
-El Riñihuazo es el nombre dado al bloqueo del río San Pedro que provocó un aumento de volumen en el lago Riñihue tras el terremoto de Valdivia de 1960.
+* El Riñihuazo es el nombre dado al bloqueo del río San Pedro que provocó un aumento de volumen en el lago Riñihue tras el terremoto de Valdivia de 1960.
 La epopeya del Riñihue consiste en impedir esta erupción violenta del “volcán” Riñihue, para lo cual se realizaron dos obras simultáneas: se le abrieron canales en su desagüe del San Pedro, y se taparían las bocas por donde se alimenta el lago.
 
 ## Cómo se dieron los hechos (TIMELINE)
-Mayo de 1960, 15:12 hrs en Valdivia, como los mismos viejos cuentan se sintió un “chancacaso” que remeció todo el suelo bajo sus pies, olas inexplicables formadas por la tierra botaban todo a su paso, pero la furia de la madre tierra no terminaría ahí.
+* Mayo de 1960, 15:12 hrs en Valdivia, como los mismos viejos cuentan se sintió un “chancacaso” que remeció todo el suelo bajo sus pies, olas inexplicables formadas por la tierra botaban todo a su paso, pero la furia de la madre tierra no terminaría ahí.
 Dominic Lehmann, hija del fallecido ingeniero civil hidráulico Pierre Lehmann, cuenta que días después de la catástrofe su padre iba por el centro de Santiago cuando se topó con un destacado abogado del que era amigo. "Se encontró, caminando por la calle, con Julio Philippi. Y don Julio le dijo: 'Pierre, he sabido de un agricultor de la zona que está subiendo el nivel de los lagos y eso corresponde a lo que cuentan las crónicas de (Pedro) Mariño de Lovera",
 Mientras los hombres trabajaban, la lluvia y el viento hacía difíciles las labores, tanto así que el 18 de junio de 1960 las condiciones climáticas detuvieron el trabajo de las faenas
 La operación de desagüe del lago Riñihue no se realizaría hasta el 26 de junio de ese mismo año, cuando comenzarían a sacar agua por el tranque número 3, (el más grande formado por el cerro caído).
